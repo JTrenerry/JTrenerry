@@ -1,5 +1,8 @@
-### Hi there 👋
+### Jackson Trenerry
 
+Currently studying a Masters of Software Engineering at The Univeristy of Queensland
+
+Linkedin - https://www.linkedin.com/in/Jtrenerry/
 <!--
 **JTrenerry/JTrenerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
