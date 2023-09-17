@@ -1,6 +1,6 @@
 ### Jackson Trenerry
 
-Currently studying Software Engineering at The Univeristy of Queensland
+Currently studying Software Engineering at The University of Queensland
 
 Linkedin - https://www.linkedin.com/in/Jtrenerry/
 <!--
