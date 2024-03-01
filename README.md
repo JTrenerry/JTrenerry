@@ -3,6 +3,7 @@
 Currently studying Software Engineering at The University of Queensland
 
 Linkedin - https://www.linkedin.com/in/Jtrenerry/
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JTrenerry)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JTrenerry/JTrenerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
