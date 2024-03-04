@@ -4,6 +4,8 @@ Currently studying Software Engineering at The University of Queensland
 
 Linkedin - https://www.linkedin.com/in/Jtrenerry/    
 
+---
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=JTrenerry&show_icons=true&theme=dark"
@@ -16,7 +18,10 @@ Linkedin - https://www.linkedin.com/in/Jtrenerry/
   <img src="https://github-readme-stats.vercel.app/api?username=JTrenerry&show_icons=true" />
 </picture>
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JTrenerry&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
