@@ -4,6 +4,12 @@ Currently studying Software Engineering at The University of Queensland
 
 Linkedin - https://www.linkedin.com/in/Jtrenerry/    
 
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</p>
+
+</p>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=JTrenerry&show_icons=true&theme=dark"
