@@ -15,6 +15,9 @@ Linkedin - https://www.linkedin.com/in/Jtrenerry/
   />
   <img src="https://github-readme-stats.vercel.app/api?username=JTrenerry&show_icons=true" />
 </picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JTrenerry&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **JTrenerry/JTrenerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
