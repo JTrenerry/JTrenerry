@@ -12,10 +12,16 @@ Currently studying Software Engineering at The University of Queensland
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=JTrenerry&show_icons=true" />
+</picture>  
+
+  </br>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JTrenerry&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTrenerry&layout=compact&theme=dark" />
 </picture>
-  
-[
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JTrenerry&layout=compact&theme=dark)](https://github.com/JTrenerry)
 
 ---
 ### Some Projects
