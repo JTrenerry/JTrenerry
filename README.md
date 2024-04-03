@@ -1,6 +1,7 @@
 ## Jackson Trenerry
 
 Currently studying Software Engineering at The University of Queensland
+Winner of 2024 UQ EAIT Sustainability Hackathon
 
 [Linkedin](https://www.linkedin.com/in/Jtrenerry/ )   
 
