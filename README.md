@@ -15,7 +15,7 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
 ### Some Stats
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JTrenerry&show_icons=true&theme=dark&theme=rose_pine"
+    srcset="https://github-readme-stats.vercel.app/api?username=JTrenerry&show_icons=true&theme=rose_pine"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=JTrenerry&show_icons=true&theme=rose_pine" />
@@ -24,17 +24,17 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
   </br>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JTrenerry&layout=compact&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JTrenerry&layout=compact&theme=rose_pine"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTrenerry&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTrenerry&layout=compact&theme=rose_pine" />
 </picture>
 
 ---
 ### Some Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=Study-Timer&theme=dark)](https://github.com/JTrenerry/Study-Timer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=LibGDX-Texture-Packer&theme=dark)](https://github.com/JTrenerry/LibGDX-Texture-Packer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=vim-cats&theme=dark)](https://github.com/JTrenerry/vim-cats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=Study-Timer&theme=rose_pine)](https://github.com/JTrenerry/Study-Timer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=LibGDX-Texture-Packer&theme=rose_pine)](https://github.com/JTrenerry/LibGDX-Texture-Packer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=vim-cats&theme=rose_pine)](https://github.com/JTrenerry/vim-cats)
 
 ---
 <p>
