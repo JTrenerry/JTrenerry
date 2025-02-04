@@ -13,22 +13,12 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
 
 ---
 ### Some Stats
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JTrenerry&show_icons=true&theme=rose_pine"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=JTrenerry&show_icons=true&theme=rose_pine" />
-</picture>  
-
-  </br>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JTrenerry&layout=compact&theme=rose_pine"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTrenerry&layout=compact&theme=rose_pine" />
-</picture>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JTrenerry&theme=rose_pine" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JTrenerry&layout=compact&langs_count=8&card_width=320&theme=rose_pine" />
+</a>
 
 ---
 ### Some Projects
