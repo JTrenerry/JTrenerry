@@ -22,8 +22,8 @@ Winner of 2024 UQ EAIT Sustainability Hackathon
 
 ---
 ### Some Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=Study-Timer&theme=rose_pine)](https://github.com/rose-pine/starship)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=vim-cats&theme=rose_pine)](https://github.com/rose-pine/obsidian)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rose-pine&repo=starship&theme=rose_pine)](https://github.com/rose-pine/starship)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rose-pine&repo=obsidian&theme=rose_pine)](https://github.com/rose-pine/obsidian)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=LibGDX-Texture-Packer&theme=rose_pine)](https://github.com/JTrenerry/LibGDX-Texture-Packer)
 
 ---
