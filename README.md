@@ -1,16 +1,10 @@
 ## Jackson Trenerry
 
 Currently studying Software Engineering at The University of Queensland  
+
 ### Awards / Competitions
 Winner of 2024 UQ EAIT Sustainability Hackathon  
-Winner of Problem solving award at DNUI program
-
-### Links
-[Linkedin](https://www.linkedin.com/in/Jtrenerry/ )    
-[Leetcode](https://leetcode.com/Tablespoon/)    
-
-### My Websites
-[Monster](https://jtrenerry.github.io/MonsterEnergy/)    
+Winner of Problem solving award at DNUI program    
 
 ---
 ### Some Stats
@@ -25,7 +19,6 @@ Winner of Problem solving award at DNUI program
 ### Some Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rose-pine&repo=starship&theme=rose_pine)](https://github.com/rose-pine/starship)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rose-pine&repo=obsidian&theme=rose_pine)](https://github.com/rose-pine/obsidian)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JTrenerry&repo=LibGDX-Texture-Packer&theme=rose_pine)](https://github.com/JTrenerry/LibGDX-Texture-Packer)
 
 ---
 <p>
