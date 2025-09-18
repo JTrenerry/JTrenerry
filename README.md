@@ -7,8 +7,8 @@ Currently studying a Masters in Software Engineering at The University of Queens
 - Winner of Problem solving award at DNUI program    
 
 ### Personal / Open Sauce Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rose-pine&repo=starship&theme=rose_pine)](https://github.com/rose-pine/starship)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rose-pine&repo=obsidian&theme=rose_pine)](https://github.com/rose-pine/obsidian)
+[![Readme Card](https://github-readme-stats-five-psi-20.vercel.app/api/pin/?username=rose-pine&repo=starship&theme=rose_pine)](https://github.com/rose-pine/starship)
+[![Readme Card](https://github-readme-stats-five-psi-20.vercel.app/api/pin/?username=rose-pine&repo=obsidian&theme=rose_pine)](https://github.com/rose-pine/obsidian)
 
 
 ### Top Langs
