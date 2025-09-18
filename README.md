@@ -13,5 +13,5 @@ Currently studying a Masters in Software Engineering at The University of Queens
 
 ### Top Langs
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JTrenerry&theme=rose_pine" />
+  <img height=200 align="center" src="https://github-readme-stats-five-psi-20.vercel.app/api?username=JTrenerry&theme=rose_pine" />
 </a>
