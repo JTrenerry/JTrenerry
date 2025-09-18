@@ -9,3 +9,6 @@ Currently studying a Masters in Software Engineering at The University of Queens
 ### Personal / Open Sauce Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rose-pine&repo=starship&theme=rose_pine)](https://github.com/rose-pine/starship)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rose-pine&repo=obsidian&theme=rose_pine)](https://github.com/rose-pine/obsidian)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
