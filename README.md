@@ -13,5 +13,5 @@ Currently studying a Masters in Software Engineering at The University of Queens
 
 ### Top Langs
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JTrenerry&layout=compact&langs_count=8&card_width=320&theme=rose_pine" />
+  <img height=200 align="center" src="https://github-readme-stats-five-psi-20.vercel.app/api/top-langs?username=JTrenerry&layout=compact&langs_count=8&card_width=320&theme=rose_pine" />
 </a>
