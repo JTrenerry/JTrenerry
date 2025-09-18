@@ -11,4 +11,11 @@ Currently studying a Masters in Software Engineering at The University of Queens
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rose-pine&repo=obsidian&theme=rose_pine)](https://github.com/rose-pine/obsidian)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JTrenerry&size_weight=0.5&count_weight=0.5&theme=rose_pine)
+### Some Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JTrenerry&theme=rose_pine" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JTrenerry&layout=compact&langs_count=8&card_width=320&theme=rose_pine" />
+</a>
