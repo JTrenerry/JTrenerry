@@ -4,11 +4,12 @@ Currently studying a Masters in Software Engineering at The University of Queens
 
 ### Awards / Competitions
 - Winner of 2024 UQ EAIT Sustainability Hackathon  
-- Winner of Problem solving award at DNUI program    
+- Winner of Problem solving award at DNUI program
+
 
 ### Personal / Open Sauce Projects
-[![Readme Card](https://github-readme-stats-five-psi-20.vercel.app/api/pin/?username=rose-pine&repo=starship&theme=rose_pine)](https://github.com/rose-pine/starship)
-[![Readme Card](https://github-readme-stats-five-psi-20.vercel.app/api/pin/?username=rose-pine&repo=obsidian&theme=rose_pine)](https://github.com/rose-pine/obsidian)
+[![Readme Card](https://github-readme-stats-six-mocha-21.vercel.app/api/pin/?username=rose-pine&repo=starship&theme=rose_pine)](https://github.com/rose-pine/starship)
+[![Readme Card](https://github-readme-stats-six-mocha-21.vercel.app/api/pin/?username=rose-pine&repo=obsidian&theme=rose_pine)](https://github.com/rose-pine/obsidian)
 
 ### Frequent Languages I Use
-[![FrequentLands](https://github-readme-stats-five-psi-20.vercel.app/api/top-langs?username=JTrenerry&layout=compact&langs_count=8&card_width=320&theme=rose_pine)](https://github.com/JTrenerry?tab=repositories)
+[![FrequentLands](https://github-readme-stats-six-mocha-21.vercel.app/api/top-langs?username=JTrenerry&layout=compact&langs_count=8&card_width=320&theme=rose_pine)](https://github.com/JTrenerry?tab=repositories)
