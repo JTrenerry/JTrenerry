@@ -12,4 +12,4 @@ Currently studying a Masters in Software Engineering at The University of Queens
 [![Readme Card](https://github-readme-stats-six-mocha-21.vercel.app/api/pin/?username=rose-pine&repo=obsidian&theme=rose_pine)](https://github.com/rose-pine/obsidian)
 
 ### Frequent Languages I Use
-[![FrequentLands](https://github-readme-stats-six-mocha-21.vercel.app/api/top-langs?username=JTrenerry&layout=compact&langs_count=8&card_width=320&theme=rose_pine)](https://github.com/JTrenerry?tab=repositories)
+[![FrequentLands](https://github-readme-stats-six-mocha-21.vercel.app/api/top-langs?username=JTrenerry&layout=compact&langs_count=8&card_width=320&theme=rose_pine&exclude_repo=tabletap)](https://github.com/JTrenerry?tab=repositories)
