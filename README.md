@@ -5,6 +5,7 @@ Currently studying a Masters in Software Engineering at The University of Queens
 ### Awards / Competitions
 - Winner of 2024 UQ EAIT Sustainability Hackathon  
 - Winner of Problem solving award at DNUI program
+- Winner of Excellence Award at Hainan International Youth Ocean Science and Technology Camp
 
 
 ### Personal / Open Sauce Projects
